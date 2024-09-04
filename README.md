@@ -2,8 +2,8 @@
 - 👀 I’m interested in Coding(DSA Is love)
 - 🌱 I’m currently learning Msc Computer Science
 - 💞️ I’m looking to collaborate on ...ANY MNC company
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...via email debottamkar2003@gmail.com
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
 <!---
