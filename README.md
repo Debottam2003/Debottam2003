@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Debottam Kar
-- 👀 I’m interested in Coding(DSA Is love)
+- 👀 I’m interested in Coding(DSA Is love) Grinding for full stack development
 - 🌱 I’m currently learning Msc Computer Science
 - 💞️ I’m looking to collaborate on ...ANY MNC company
 - 📫 How to reach me ...via email debottamkar2003@gmail.com
