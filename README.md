@@ -37,7 +37,7 @@
 </p>
 
 <!-- Frontend -->
-### 🎨 Frontend
+### 🎨 Frontend Frameworks and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
