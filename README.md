@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Debottam Kar
-- 👀 I’m interested in Coding(DSA Is love) Grinding for full stack Web development(JavaScipt Backend developer)
+- 👀 I just love Coding(DSA Is love) Grinding full stack Web development(JavaScipt Backend developer)
 - 🌱 I’m currently learning Msc Computer Science and Mastering MERN stack
 - 💞️ I’m looking to collaborate on ...ANY MNC company
 - 📫 How to reach me ...via email debottamkar2003@gmail.com
