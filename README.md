@@ -5,7 +5,6 @@
 - 📫 How to reach me ...via email debottamkar2003@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: Certified FullStack web dev: https://udemy-certificate.s3.amazonaws.com/pdf/UC-ed78856b-14e0-4906-8b5b-5007ab22ded1.pdf
-Skills:
 ### 🚀 Languages & Tools
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -30,6 +29,10 @@ Skills:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 <!---
 Debottam2003/Debottam2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
