@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debottam Kar
 - 👀 I just love Coding(DSA Is love) Grinding full stack Web development(JavaScipt Backend developer)
-- 🌱 I’m currently learning Msc Computer Science and Mastering MERN stack
+- 🌱 I’m currently learning Msc Computer Science and Mastering MERN/PERN stack
 - 💞️ I’m looking to collaborate on ...ANY MNC company
 - 📫 How to reach me ...via email debottamkar2003@gmail.com
 - 😄 Pronouns: ...He/Him
