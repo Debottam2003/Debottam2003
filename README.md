@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Debottam Kar
-- 👀 I just love Coding(DSA Is love) Grinding full stack Web development(JavaScipt Backend developer)
+- 👀 I just love Coding(DSA Is love) Grinding full stack Web development(JavaScipt Backend developer, gen ai with js)
 Interested in distributed systems, cloud and block chain
 - 🌱 I’m currently persuing Msc Computer Science and Mastering MERN/PERN stack
 - 💞️ I’m looking to collaborate on ...ANY MNC company
