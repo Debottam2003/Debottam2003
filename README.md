@@ -6,6 +6,7 @@ Interested in distributed systems, cloud and block chain
 - 📫 How to reach me ...via email debottamkar2003@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: Certified FullStack web dev: https://udemy-certificate.s3.amazonaws.com/pdf/UC-ed78856b-14e0-4906-8b5b-5007ab22ded1.pdf
+- Check Out YouTube Channel: https://www.youtube.com/@Okudera2003
 - Check out my package in npm: https://www.npmjs.com/package/chatujs?activeTab=readme
 <!-- Programming Languages -->
 ### 🧠 Programming Languages
