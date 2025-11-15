@@ -33,7 +33,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" alt="NumPy" />
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80" alt="Pandas" />
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="60" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" alt="Matplotlib" />
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" width="60" alt="OpenCV" />
 </p>
 
