@@ -1,13 +1,17 @@
-- 👋 Hi, I’m Debottam Kar
-- 👀 I just love Coding(DSA Is love) Grinding full stack Web development(JavaScipt Backend developer, gen ai with js)
-Interested in distributed systems, cloud and block chain
-- 🌱 I’m currently persuing Msc Computer Science and Mastering MERN/PERN stack, AI_ML_DL(Currently) 
-- 💞️ I’m looking to collaborate on ...ANY MNC company
-- 📫 How to reach me ...via email debottamkar2003@gmail.com
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: Certified FullStack web dev: https://udemy-certificate.s3.amazonaws.com/pdf/UC-ed78856b-14e0-4906-8b5b-5007ab22ded1.pdf
-- Check Out YouTube Channel: https://www.youtube.com/@Okudera2003
-- Check out my package in npm: https://www.npmjs.com/package/chatujs?activeTab=readme
+- 👋 Hi, I’m Debottam Kar  
+- 👀 I just love Coding (DSA is love) — Grinding full-stack Web Development (JavaScript Backend Developer, Gen AI with JS).  
+  Interested in distributed systems, cloud and blockchain.  
+- 🌱 I’m currently pursuing M.Sc. Computer Science and mastering MERN/PERN stack, AI/ML/DL (currently).  
+- 💞️ I’m looking to collaborate with ... ANY MNC company  
+- 📫 How to reach me: **debottamkar2003@gmail.com**  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: Certified FullStack Web Dev:  
+  https://udemy-certificate.s3.amazonaws.com/pdf/UC-ed78856b-14e0-4906-8b5b-5007ab22ded1.pdf  
+- ▶️ Check Out my YouTube Channel: https://www.youtube.com/@Okudera2003  
+- 📦 Check out my npm package: https://www.npmjs.com/package/chatujs?activeTab=readme  
+
+---
+
 <!-- Programming Languages -->
 ### 🧠 Programming Languages
 <p align="left">
@@ -23,7 +27,18 @@ Interested in distributed systems, cloud and block chain
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-<!-- Backend -->
+---
+
+### 🤖 AI/ML Libraries (Learning)
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="60" alt="NumPy" />
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80" alt="Pandas" />
+  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="60" alt="Matplotlib" />
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" width="60" alt="OpenCV" />
+</p>
+
+---
+
 ### 🧩 Backend Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
@@ -31,7 +46,8 @@ Interested in distributed systems, cloud and block chain
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" alt="Gin" />
 </p>
 
-<!-- Databases -->
+---
+
 ### 🗄️ Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
@@ -39,7 +55,8 @@ Interested in distributed systems, cloud and block chain
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
 </p>
 
-<!-- Frontend -->
+---
+
 ### 🎨 Frontend Frameworks & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
@@ -47,19 +64,10 @@ Interested in distributed systems, cloud and block chain
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
 </p>
 
-<!-- Tools -->
+---
+
 ### 🧰 Tools & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman" />
 </p>
-
-
-
-
-
-
-<!---
-Debottam2003/Debottam2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
