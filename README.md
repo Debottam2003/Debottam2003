@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Debottam Kar</h1>
-<h3 align="center">Full-Stack Web Dev | Backend Engineer | AI/ML Learner | DSA Lover</h3>
+<h3 align="center">Full-Stack Web Dev | Backend Engineer | AI/ML Enthusiast | DSA Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;AI+%26+ML+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@Okudera2003"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/package/chatujs?activeTab=readme"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
+  <a href="mailto:debottamkar2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👤 About Me
-- 👀 I love **coding & DSA** — Grinding **Full-Stack Web Development** (Backend Dev + Gen AI with JS).  
-- 🌱 Currently pursuing **M.Sc. Computer Science** & mastering **MERN/PERN + AI/ML/DL**.  
-- 💞️ Open to collaborate with **ANY MNC**.  
-- 📫 Reach me at: **debottamkar2003@gmail.com**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Certified Full-Stack Web Dev →  
-  https://udemy-certificate.s3.amazonaws.com/pdf/UC-ed78856b-14e0-4906-8b5b-5007ab22ded1.pdf  
-- ▶️ YouTube Channel: **https://www.youtube.com/@Okudera2003**  
-- 📦 My npm package: **https://www.npmjs.com/package/chatujs?activeTab=readme**
+## 🌟 About Me
+- 👀 I love **coding & DSA** — Grinding **Full-Stack Web Development** (Backend Dev + Gen AI with JS)  
+- 🌱 Currently pursuing **M.Sc. Computer Science** & mastering **MERN/PERN + AI/ML/DL**  
+- 💞️ Open to collaborate with **ANY MNC**  
+- ⚡ Fun fact: Certified Full-Stack Web Dev → [Udemy Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-ed78856b-14e0-4906-8b5b-5007ab22ded1.pdf)  
+- 🌐 Interests: **Distributed Systems | Cloud | Blockchain**  
 
 ---
 
