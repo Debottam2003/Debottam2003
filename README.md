@@ -87,8 +87,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debottam2003&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debottam2003&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Debottam2003&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Debottam2003&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
