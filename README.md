@@ -75,6 +75,11 @@
 </p>
 
 ---
+---
+## ☁️ Cloud & DevOps
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/> <img src="https://img.shields.io/badge/AWS_Skill_Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> </p>
+- Completed AWS courses from AWS Skill Builder
+---
 
 ## 🧰 Tools & Platforms
 <p align="center">
