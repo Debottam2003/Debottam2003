@@ -283,7 +283,7 @@ fun_fact    : I use Neovim btw.  Also Rust.  Also Prolog.  (yes, Prolog.)
 <div align="center">
 
 ```
-  ☁️  All-time Coder. Backend at heart. GenAI in the brain. Neovim in the fingers.
+  ☁️ Building things that work. Learning things that matter. Shipping things that ship.
 ```
 
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
