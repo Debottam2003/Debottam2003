@@ -10,7 +10,7 @@
                                  K A R
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=640&lines=Full+Stack+Engineer+%7C+MERN+%2F+PERN;Backend+%2B+GenAI+%7C+Node.js+Artisan;XAI+Researcher+%7C+Distributed+Systems;Published+npm+Author+%7C+Open+Source+Dev;Neovim+Enthusiast+%7C+All-time+Coder+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+MERN+%2F+PERN;AI+%26+ML+Enthusiast;Cloud+%26+Distributed+Systems;System+Design+%7C+Always+Learning+%F0%9F%9A%80
 
 <br/>
 
