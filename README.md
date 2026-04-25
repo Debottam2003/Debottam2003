@@ -10,7 +10,9 @@
                                  K A R
 ```
 
-https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+MERN+%2F+PERN;AI+%26+ML+Enthusiast;Cloud+%26+Distributed+Systems;System+Design+%7C+Always+Learning+%F0%9F%9A%80
+<a href="https://github.com/Debottam2003">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+MERN+%2F+PERN;AI+%26+ML+Enthusiast;Cloud+%26+Distributed+Systems;System+Design+%7C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -34,7 +36,7 @@ role        : Full Stack Web Developer · Backend Engineer · AI/ML Researcher
 currently   : Building Healthyfy (GenAI recipe app) + XAI research for cloud-edge security
 interests   : Distributed Systems · Cloud Computing · Blockchain · Open Source · AI Research
 looking_for : Collaboration, internships, open-source contributions, and full-time roles
-fun_fact    : I use Neovim btw.  Also Rust.  Also ArchLinux
+fun_fact    : I use Neovim btw.  Also Rust.  Also Prolog.  (yes, Prolog.)
 ```
 
 ---
@@ -204,7 +206,7 @@ fun_fact    : I use Neovim btw.  Also Rust.  Also ArchLinux
 <div align="center">
 
 ```
-📦  chatujs  →  npm i chatujs
+📦  chatujs  →  npmjs.com/package/chatujs
 ```
 
 [![NPM Version](https://img.shields.io/npm/v/chatujs?style=for-the-badge&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/chatujs)
