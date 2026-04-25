@@ -204,7 +204,7 @@ fun_fact    : I use Neovim btw.  Also Rust.  Also ArchLinux
 <div align="center">
 
 ```
-📦  chatujs  →  npmjs.com/package/chatujs
+📦  chatujs  →  npm i chatujs
 ```
 
 [![NPM Version](https://img.shields.io/npm/v/chatujs?style=for-the-badge&color=CB3837&logo=npm&logoColor=white)](https://www.npmjs.com/package/chatujs)
