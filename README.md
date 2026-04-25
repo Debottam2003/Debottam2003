@@ -11,7 +11,7 @@
 ```
 
 <a href="https://github.com/Debottam2003">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%7C+MERN+%2F+PERN;AI+%26+ML+Enthusiast;Cloud+%26+Distributed+Systems;System+Design+%7C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF88&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Full+Stack+Dev+%7C+MERN+%2F+PERN;%24+python+train.py+--focus+AI%2FML+%26+XAI;%24+kubectl+apply+-f+cloud-edge-security.yaml;%24+git+commit+-m+%22always+learning%2C+never+stopping%22;%24+ssh+debottam%40distributed-systems.dev" alt="Typing SVG" />
 </a>
 
 <br/>
