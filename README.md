@@ -34,7 +34,7 @@ role        : Full Stack Web Developer · Backend Engineer · AI/ML Researcher
 currently   : Building Healthyfy (GenAI recipe app) + XAI research for cloud-edge security
 interests   : Distributed Systems · Cloud Computing · Blockchain · Open Source · AI Research
 looking_for : Collaboration, internships, open-source contributions, and full-time roles
-fun_fact    : I use Neovim btw.  Also Rust.  Also Prolog.  (yes, Prolog.)
+fun_fact    : I use Neovim btw.  Also Rust.  Also ArchLinux
 ```
 
 ---
